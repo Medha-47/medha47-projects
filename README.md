@@ -10,7 +10,7 @@ Welcome to my portfolio! This repository tracks my progress across multiple tech
 
 | Skill | HackerRank | Kaggle | GitHub Projects | Certificates | Status | Target |
 |-------|-----------|--------|-----------------|---------------|--------|--------|
-| **Git** | 0/100 | - | 20+ repos | ⏳ In progress | 🟡 20% | Advanced Git workflow |
+| **Git** | 0/100 | - | 0 repos | ⏳ In progress | 🟡 20% | Advanced Git workflow |
 | **APIs (REST/FastAPI)** | 0/100 | - | 5+ projects | ⏳ Coursera REST APIs | 🟡 15% | Production-ready APIs |
 | **OOP & Clean Code** | 0/100 | - | Design patterns repo | ⏳ freeCodeCamp | 🟡 10% | SOLID principles mastery |
 | **Flask/FastAPI** | 0/100 | - | 8+ deployed projects | ⏳ Coursera certified | 🟡 15% | Full-stack backend dev |
