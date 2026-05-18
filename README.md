@@ -106,11 +106,11 @@ Welcome to my portfolio! This repository tracks my progress across multiple tech
 ### Online Profiles & Verification Links
 | Platform | Username | Status |
 |----------|----------|--------|
-| **HackerRank** | [medha-47](https://www.hackerrank.com/medha47) | 🟡 0/100 problems |
-| **Kaggle** | [medha-47](https://www.kaggle.com/medha47) | 🟡 0 competitions |
-| **Medium/Dev.to** | [medha-47](https://medium.com/@medha47) | ⏳ 0 articles |
+| **HackerRank** | [medharg47](https://www.hackerrank.com/medharg47) | 🟡 0/100 problems |
+| **Kaggle** | [medharamaniganti](https://www.kaggle.com/medharamaniganti) | 🟡 0 competitions |
+| **Medium/Dev.to** | [medharg47](https://medium.com/@medharg47) | ⏳ 0 articles |
 | **GitHub** | [medha-47](https://github.com/medha-47) | 🟢 Public portfolio |
-| **LeetCode** | [medha-47](https://leetcode.com/medha47) | 🟡 0 problems |
+| **LeetCode** | [medha_47](https://leetcode.com/medha_47) | 🟡 0 problems |
 
 ---
 
